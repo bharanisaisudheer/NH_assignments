@@ -1,0 +1,7 @@
+C:\sai sudheer projects\c#dot net projects\multiplication of a number\multiplication of a number\bin\Debug\multiplication of a number.exe.config
+C:\sai sudheer projects\c#dot net projects\multiplication of a number\multiplication of a number\bin\Debug\multiplication of a number.exe
+C:\sai sudheer projects\c#dot net projects\multiplication of a number\multiplication of a number\bin\Debug\multiplication of a number.pdb
+C:\sai sudheer projects\c#dot net projects\multiplication of a number\multiplication of a number\obj\Debug\multiplication of a number.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\multiplication of a number\multiplication of a number\obj\Debug\multiplication of a number.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\multiplication of a number\multiplication of a number\obj\Debug\multiplication of a number.exe
+C:\sai sudheer projects\c#dot net projects\multiplication of a number\multiplication of a number\obj\Debug\multiplication of a number.pdb

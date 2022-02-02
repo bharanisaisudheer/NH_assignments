@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\for each loop by using array to print 4 numbers\for each loop by using array to print 4 numbers\bin\Debug\for each loop by using array to print 4 numbers.exe.config
+C:\sai sudheer projects\c#dot net projects\for each loop by using array to print 4 numbers\for each loop by using array to print 4 numbers\bin\Debug\for each loop by using array to print 4 numbers.exe
+C:\sai sudheer projects\c#dot net projects\for each loop by using array to print 4 numbers\for each loop by using array to print 4 numbers\bin\Debug\for each loop by using array to print 4 numbers.pdb
+C:\sai sudheer projects\c#dot net projects\for each loop by using array to print 4 numbers\for each loop by using array to print 4 numbers\obj\Debug\for each loop by using array to print 4 numbers.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\for each loop by using array to print 4 numbers\for each loop by using array to print 4 numbers\obj\Debug\for each loop by using array to print 4 numbers.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\for each loop by using array to print 4 numbers\for each loop by using array to print 4 numbers\obj\Debug\for each loop by using array to print 4 numbers.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\for each loop by using array to print 4 numbers\for each loop by using array to print 4 numbers\obj\Debug\for each loop by using array to print 4 numbers.exe
+C:\sai sudheer projects\c#dot net projects\for each loop by using array to print 4 numbers\for each loop by using array to print 4 numbers\obj\Debug\for each loop by using array to print 4 numbers.pdb

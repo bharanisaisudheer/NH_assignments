@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "505b3805-92eb-4b9c-8044-7be45e8912f3": {
+      "ProjectGuid": "505b3805-92eb-4b9c-8044-7be45e8912f3",
+      "DisplayName": "display two times multiplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

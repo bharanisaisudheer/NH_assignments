@@ -1,0 +1,7 @@
+C:\sai sudheer projects\c#dot net projects\intialize an array with 5 values\intialize an array with 5 values\bin\Debug\intialize an array with 5 values.exe.config
+C:\sai sudheer projects\c#dot net projects\intialize an array with 5 values\intialize an array with 5 values\bin\Debug\intialize an array with 5 values.exe
+C:\sai sudheer projects\c#dot net projects\intialize an array with 5 values\intialize an array with 5 values\bin\Debug\intialize an array with 5 values.pdb
+C:\sai sudheer projects\c#dot net projects\intialize an array with 5 values\intialize an array with 5 values\obj\Debug\intialize an array with 5 values.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\intialize an array with 5 values\intialize an array with 5 values\obj\Debug\intialize an array with 5 values.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\intialize an array with 5 values\intialize an array with 5 values\obj\Debug\intialize an array with 5 values.exe
+C:\sai sudheer projects\c#dot net projects\intialize an array with 5 values\intialize an array with 5 values\obj\Debug\intialize an array with 5 values.pdb

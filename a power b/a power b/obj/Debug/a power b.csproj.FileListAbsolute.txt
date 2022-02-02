@@ -1,0 +1,7 @@
+C:\sai sudheer projects\c#dot net projects\a power b\a power b\obj\Debug\a power b.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\a power b\a power b\obj\Debug\a power b.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\a power b\a power b\bin\Debug\a power b.exe.config
+C:\sai sudheer projects\c#dot net projects\a power b\a power b\bin\Debug\a power b.exe
+C:\sai sudheer projects\c#dot net projects\a power b\a power b\bin\Debug\a power b.pdb
+C:\sai sudheer projects\c#dot net projects\a power b\a power b\obj\Debug\a power b.exe
+C:\sai sudheer projects\c#dot net projects\a power b\a power b\obj\Debug\a power b.pdb

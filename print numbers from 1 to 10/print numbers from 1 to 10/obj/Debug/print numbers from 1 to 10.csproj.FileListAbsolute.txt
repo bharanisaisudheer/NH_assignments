@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\print numbers from 1 to 10\print numbers from 1 to 10\bin\Debug\print numbers from 1 to 10.exe.config
+C:\sai sudheer projects\c#dot net projects\print numbers from 1 to 10\print numbers from 1 to 10\bin\Debug\print numbers from 1 to 10.exe
+C:\sai sudheer projects\c#dot net projects\print numbers from 1 to 10\print numbers from 1 to 10\bin\Debug\print numbers from 1 to 10.pdb
+C:\sai sudheer projects\c#dot net projects\print numbers from 1 to 10\print numbers from 1 to 10\obj\Debug\print numbers from 1 to 10.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\print numbers from 1 to 10\print numbers from 1 to 10\obj\Debug\print numbers from 1 to 10.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\print numbers from 1 to 10\print numbers from 1 to 10\obj\Debug\print numbers from 1 to 10.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\print numbers from 1 to 10\print numbers from 1 to 10\obj\Debug\print numbers from 1 to 10.exe
+C:\sai sudheer projects\c#dot net projects\print numbers from 1 to 10\print numbers from 1 to 10\obj\Debug\print numbers from 1 to 10.pdb

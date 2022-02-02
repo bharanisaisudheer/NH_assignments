@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b33e50e6-88cf-4fa1-b6b1-5a3809a42cc8": {
+      "ProjectGuid": "b33e50e6-88cf-4fa1-b6b1-5a3809a42cc8",
+      "DisplayName": "for each loop by using array to print 4 numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

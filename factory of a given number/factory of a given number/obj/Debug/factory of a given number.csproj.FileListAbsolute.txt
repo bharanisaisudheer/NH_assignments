@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\factory of a given number\factory of a given number\bin\Debug\factory of a given number.exe.config
+C:\sai sudheer projects\c#dot net projects\factory of a given number\factory of a given number\bin\Debug\factory of a given number.exe
+C:\sai sudheer projects\c#dot net projects\factory of a given number\factory of a given number\bin\Debug\factory of a given number.pdb
+C:\sai sudheer projects\c#dot net projects\factory of a given number\factory of a given number\obj\Debug\factory of a given number.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\factory of a given number\factory of a given number\obj\Debug\factory of a given number.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\factory of a given number\factory of a given number\obj\Debug\factory of a given number.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\factory of a given number\factory of a given number\obj\Debug\factory of a given number.exe
+C:\sai sudheer projects\c#dot net projects\factory of a given number\factory of a given number\obj\Debug\factory of a given number.pdb

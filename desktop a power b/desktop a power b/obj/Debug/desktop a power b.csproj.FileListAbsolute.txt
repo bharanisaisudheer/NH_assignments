@@ -1,0 +1,10 @@
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\obj\Debug\desktop a power b.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\obj\Debug\desktop_a_power_b.Form1.resources
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\obj\Debug\desktop_a_power_b.Properties.Resources.resources
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\obj\Debug\desktop a power b.csproj.GenerateResource.cache
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\obj\Debug\desktop a power b.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\bin\Debug\desktop a power b.exe.config
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\bin\Debug\desktop a power b.exe
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\bin\Debug\desktop a power b.pdb
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\obj\Debug\desktop a power b.exe
+C:\sai sudheer projects\c#dot net projects\desktop a power b\desktop a power b\obj\Debug\desktop a power b.pdb

@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\factorial number\factorial number\obj\Debug\factorial number.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\factorial number\factorial number\obj\Debug\factorial number.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\factorial number\factorial number\obj\Debug\factorial number.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\factorial number\factorial number\bin\Debug\factorial number.exe.config
+C:\sai sudheer projects\c#dot net projects\factorial number\factorial number\bin\Debug\factorial number.exe
+C:\sai sudheer projects\c#dot net projects\factorial number\factorial number\bin\Debug\factorial number.pdb
+C:\sai sudheer projects\c#dot net projects\factorial number\factorial number\obj\Debug\factorial number.exe
+C:\sai sudheer projects\c#dot net projects\factorial number\factorial number\obj\Debug\factorial number.pdb

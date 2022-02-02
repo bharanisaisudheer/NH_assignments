@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\display two times multiplication\display two times multiplication\bin\Debug\display two times multiplication.exe.config
+C:\sai sudheer projects\c#dot net projects\display two times multiplication\display two times multiplication\bin\Debug\display two times multiplication.exe
+C:\sai sudheer projects\c#dot net projects\display two times multiplication\display two times multiplication\bin\Debug\display two times multiplication.pdb
+C:\sai sudheer projects\c#dot net projects\display two times multiplication\display two times multiplication\obj\Debug\display two times multiplication.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\display two times multiplication\display two times multiplication\obj\Debug\display two times multiplication.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\display two times multiplication\display two times multiplication\obj\Debug\display two times multiplication.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\display two times multiplication\display two times multiplication\obj\Debug\display two times multiplication.exe
+C:\sai sudheer projects\c#dot net projects\display two times multiplication\display two times multiplication\obj\Debug\display two times multiplication.pdb

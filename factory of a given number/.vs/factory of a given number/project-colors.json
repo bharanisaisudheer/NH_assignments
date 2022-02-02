@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4fb2ce0-843e-4acc-bd14-16c2dd266229": {
+      "ProjectGuid": "a4fb2ce0-843e-4acc-bd14-16c2dd266229",
+      "DisplayName": "factory of a given number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

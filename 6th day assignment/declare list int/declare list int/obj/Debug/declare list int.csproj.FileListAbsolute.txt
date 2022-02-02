@@ -1,0 +1,7 @@
+C:\Users\SUDHEER\source\repos\declare list int\declare list int\bin\Debug\declare list int.exe.config
+C:\Users\SUDHEER\source\repos\declare list int\declare list int\bin\Debug\declare list int.exe
+C:\Users\SUDHEER\source\repos\declare list int\declare list int\bin\Debug\declare list int.pdb
+C:\Users\SUDHEER\source\repos\declare list int\declare list int\obj\Debug\declare list int.csproj.SuggestedBindingRedirects.cache
+C:\Users\SUDHEER\source\repos\declare list int\declare list int\obj\Debug\declare list int.csproj.CoreCompileInputs.cache
+C:\Users\SUDHEER\source\repos\declare list int\declare list int\obj\Debug\declare list int.exe
+C:\Users\SUDHEER\source\repos\declare list int\declare list int\obj\Debug\declare list int.pdb

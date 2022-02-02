@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\debug\debug\bin\Debug\debug.exe.config
+C:\sai sudheer projects\c#dot net projects\debug\debug\bin\Debug\debug.exe
+C:\sai sudheer projects\c#dot net projects\debug\debug\bin\Debug\debug.pdb
+C:\sai sudheer projects\c#dot net projects\debug\debug\obj\Debug\debug.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\debug\debug\obj\Debug\debug.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\debug\debug\obj\Debug\debug.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\debug\debug\obj\Debug\debug.exe
+C:\sai sudheer projects\c#dot net projects\debug\debug\obj\Debug\debug.pdb

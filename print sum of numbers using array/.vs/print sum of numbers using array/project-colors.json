@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34fd377e-38f2-4e75-b7db-547f7c206a4d": {
+      "ProjectGuid": "34fd377e-38f2-4e75-b7db-547f7c206a4d",
+      "DisplayName": "print sum of numbers using array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

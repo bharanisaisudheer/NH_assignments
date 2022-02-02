@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\addition of two numbers\addition of two numbers\bin\Debug\addition of two numbers.exe.config
+C:\sai sudheer projects\c#dot net projects\addition of two numbers\addition of two numbers\bin\Debug\addition of two numbers.exe
+C:\sai sudheer projects\c#dot net projects\addition of two numbers\addition of two numbers\bin\Debug\addition of two numbers.pdb
+C:\sai sudheer projects\c#dot net projects\addition of two numbers\addition of two numbers\obj\Debug\addition of two numbers.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\addition of two numbers\addition of two numbers\obj\Debug\addition of two numbers.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\addition of two numbers\addition of two numbers\obj\Debug\addition of two numbers.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\addition of two numbers\addition of two numbers\obj\Debug\addition of two numbers.exe
+C:\sai sudheer projects\c#dot net projects\addition of two numbers\addition of two numbers\obj\Debug\addition of two numbers.pdb

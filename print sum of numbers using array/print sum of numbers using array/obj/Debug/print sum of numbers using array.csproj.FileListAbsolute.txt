@@ -1,0 +1,7 @@
+C:\sai sudheer projects\c#dot net projects\print sum of numbers using array\print sum of numbers using array\bin\Debug\print sum of numbers using array.exe.config
+C:\sai sudheer projects\c#dot net projects\print sum of numbers using array\print sum of numbers using array\bin\Debug\print sum of numbers using array.exe
+C:\sai sudheer projects\c#dot net projects\print sum of numbers using array\print sum of numbers using array\bin\Debug\print sum of numbers using array.pdb
+C:\sai sudheer projects\c#dot net projects\print sum of numbers using array\print sum of numbers using array\obj\Debug\print sum of numbers using array.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\print sum of numbers using array\print sum of numbers using array\obj\Debug\print sum of numbers using array.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\print sum of numbers using array\print sum of numbers using array\obj\Debug\print sum of numbers using array.exe
+C:\sai sudheer projects\c#dot net projects\print sum of numbers using array\print sum of numbers using array\obj\Debug\print sum of numbers using array.pdb

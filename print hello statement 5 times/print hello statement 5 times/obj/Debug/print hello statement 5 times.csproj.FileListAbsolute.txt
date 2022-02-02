@@ -1,0 +1,8 @@
+C:\sai projects\c#dot net projects\print hello statement 5 times\print hello statement 5 times\bin\Debug\print hello statement 5 times.exe.config
+C:\sai projects\c#dot net projects\print hello statement 5 times\print hello statement 5 times\bin\Debug\print hello statement 5 times.exe
+C:\sai projects\c#dot net projects\print hello statement 5 times\print hello statement 5 times\bin\Debug\print hello statement 5 times.pdb
+C:\sai projects\c#dot net projects\print hello statement 5 times\print hello statement 5 times\obj\Debug\print hello statement 5 times.csproj.AssemblyReference.cache
+C:\sai projects\c#dot net projects\print hello statement 5 times\print hello statement 5 times\obj\Debug\print hello statement 5 times.csproj.SuggestedBindingRedirects.cache
+C:\sai projects\c#dot net projects\print hello statement 5 times\print hello statement 5 times\obj\Debug\print hello statement 5 times.csproj.CoreCompileInputs.cache
+C:\sai projects\c#dot net projects\print hello statement 5 times\print hello statement 5 times\obj\Debug\print hello statement 5 times.exe
+C:\sai projects\c#dot net projects\print hello statement 5 times\print hello statement 5 times\obj\Debug\print hello statement 5 times.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "331a0a61-c0c1-499f-aebf-eea36e68f28d": {
+      "ProjectGuid": "331a0a61-c0c1-499f-aebf-eea36e68f28d",
+      "DisplayName": "quiz application",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

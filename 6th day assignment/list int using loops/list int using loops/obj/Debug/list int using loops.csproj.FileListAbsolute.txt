@@ -1,0 +1,8 @@
+C:\Users\SUDHEER\source\repos\list int using loops\list int using loops\bin\Debug\list int using loops.exe.config
+C:\Users\SUDHEER\source\repos\list int using loops\list int using loops\bin\Debug\list int using loops.exe
+C:\Users\SUDHEER\source\repos\list int using loops\list int using loops\bin\Debug\list int using loops.pdb
+C:\Users\SUDHEER\source\repos\list int using loops\list int using loops\obj\Debug\list int using loops.csproj.AssemblyReference.cache
+C:\Users\SUDHEER\source\repos\list int using loops\list int using loops\obj\Debug\list int using loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\SUDHEER\source\repos\list int using loops\list int using loops\obj\Debug\list int using loops.csproj.CoreCompileInputs.cache
+C:\Users\SUDHEER\source\repos\list int using loops\list int using loops\obj\Debug\list int using loops.exe
+C:\Users\SUDHEER\source\repos\list int using loops\list int using loops\obj\Debug\list int using loops.pdb

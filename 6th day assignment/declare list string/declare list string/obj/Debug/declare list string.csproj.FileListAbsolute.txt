@@ -1,0 +1,8 @@
+C:\Users\SUDHEER\source\repos\declare list string\declare list string\obj\Debug\declare list string.csproj.AssemblyReference.cache
+C:\Users\SUDHEER\source\repos\declare list string\declare list string\obj\Debug\declare list string.csproj.SuggestedBindingRedirects.cache
+C:\Users\SUDHEER\source\repos\declare list string\declare list string\obj\Debug\declare list string.csproj.CoreCompileInputs.cache
+C:\Users\SUDHEER\source\repos\declare list string\declare list string\bin\Debug\declare list string.exe.config
+C:\Users\SUDHEER\source\repos\declare list string\declare list string\bin\Debug\declare list string.exe
+C:\Users\SUDHEER\source\repos\declare list string\declare list string\bin\Debug\declare list string.pdb
+C:\Users\SUDHEER\source\repos\declare list string\declare list string\obj\Debug\declare list string.exe
+C:\Users\SUDHEER\source\repos\declare list string\declare list string\obj\Debug\declare list string.pdb

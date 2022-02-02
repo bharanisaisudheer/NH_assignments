@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplication of a number", "multiplication of a number\multiplication of a number.csproj", "{6842753F-82E6-4F81-BB57-D1917385316E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6842753F-82E6-4F81-BB57-D1917385316E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6842753F-82E6-4F81-BB57-D1917385316E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6842753F-82E6-4F81-BB57-D1917385316E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6842753F-82E6-4F81-BB57-D1917385316E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D2C8264-B9C0-45AA-98FA-4DF83FE63602}
+	EndGlobalSection
+EndGlobal

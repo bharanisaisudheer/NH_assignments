@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\natural number\natural number\obj\Debug\natural number.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\natural number\natural number\obj\Debug\natural number.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\natural number\natural number\obj\Debug\natural number.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\natural number\natural number\bin\Debug\natural number.exe.config
+C:\sai sudheer projects\c#dot net projects\natural number\natural number\bin\Debug\natural number.exe
+C:\sai sudheer projects\c#dot net projects\natural number\natural number\bin\Debug\natural number.pdb
+C:\sai sudheer projects\c#dot net projects\natural number\natural number\obj\Debug\natural number.exe
+C:\sai sudheer projects\c#dot net projects\natural number\natural number\obj\Debug\natural number.pdb

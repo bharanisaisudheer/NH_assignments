@@ -1,0 +1,8 @@
+C:\sai sudheer projects\c#dot net projects\quiz application\quiz application\obj\Debug\quiz application.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\quiz application\quiz application\obj\Debug\quiz application.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\quiz application\quiz application\obj\Debug\quiz application.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\quiz application\quiz application\bin\Debug\quiz application.exe.config
+C:\sai sudheer projects\c#dot net projects\quiz application\quiz application\bin\Debug\quiz application.exe
+C:\sai sudheer projects\c#dot net projects\quiz application\quiz application\bin\Debug\quiz application.pdb
+C:\sai sudheer projects\c#dot net projects\quiz application\quiz application\obj\Debug\quiz application.exe
+C:\sai sudheer projects\c#dot net projects\quiz application\quiz application\obj\Debug\quiz application.pdb

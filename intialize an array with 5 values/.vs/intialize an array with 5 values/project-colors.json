@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ce7b003-19e4-4f5c-90cb-8a453817f0cd": {
+      "ProjectGuid": "6ce7b003-19e4-4f5c-90cb-8a453817f0cd",
+      "DisplayName": "intialize an array with 5 values",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

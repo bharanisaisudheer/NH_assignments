@@ -1,0 +1,11 @@
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\bin\Debug\Windows addition.exe.config
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\bin\Debug\Windows addition.exe
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\bin\Debug\Windows addition.pdb
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\obj\Debug\Windows addition.csproj.AssemblyReference.cache
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\obj\Debug\Windows addition.csproj.SuggestedBindingRedirects.cache
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\obj\Debug\Windows_addition.Form1.resources
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\obj\Debug\Windows_addition.Properties.Resources.resources
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\obj\Debug\Windows addition.csproj.GenerateResource.cache
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\obj\Debug\Windows addition.csproj.CoreCompileInputs.cache
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\obj\Debug\Windows addition.exe
+C:\sai sudheer projects\c#dot net projects\Windows addition\Windows addition\obj\Debug\Windows addition.pdb
