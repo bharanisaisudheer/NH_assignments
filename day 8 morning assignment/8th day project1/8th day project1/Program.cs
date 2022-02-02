@@ -8,6 +8,7 @@ namespace _8th_day_project1
 {
     internal class Program
     {
+        
 
         static void Main(string[] args)
         {
