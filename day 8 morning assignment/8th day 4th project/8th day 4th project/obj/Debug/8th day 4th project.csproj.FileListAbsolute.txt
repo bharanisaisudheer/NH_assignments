@@ -1,0 +1,8 @@
+C:\c#assignments\day 8 morning assignment\8th day 4th project\8th day 4th project\bin\Debug\8th day 4th project.exe.config
+C:\c#assignments\day 8 morning assignment\8th day 4th project\8th day 4th project\bin\Debug\8th day 4th project.exe
+C:\c#assignments\day 8 morning assignment\8th day 4th project\8th day 4th project\bin\Debug\8th day 4th project.pdb
+C:\c#assignments\day 8 morning assignment\8th day 4th project\8th day 4th project\obj\Debug\8th day 4th project.csproj.AssemblyReference.cache
+C:\c#assignments\day 8 morning assignment\8th day 4th project\8th day 4th project\obj\Debug\8th day 4th project.csproj.SuggestedBindingRedirects.cache
+C:\c#assignments\day 8 morning assignment\8th day 4th project\8th day 4th project\obj\Debug\8th day 4th project.csproj.CoreCompileInputs.cache
+C:\c#assignments\day 8 morning assignment\8th day 4th project\8th day 4th project\obj\Debug\8th day 4th project.exe
+C:\c#assignments\day 8 morning assignment\8th day 4th project\8th day 4th project\obj\Debug\8th day 4th project.pdb
