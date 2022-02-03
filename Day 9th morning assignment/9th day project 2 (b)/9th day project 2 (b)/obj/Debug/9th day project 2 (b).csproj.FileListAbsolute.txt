@@ -1,0 +1,7 @@
+C:\c#assignments\Day 9th morning assignment\9th day project 2 (b)\9th day project 2 (b)\bin\Debug\9th day project 2 (b).exe.config
+C:\c#assignments\Day 9th morning assignment\9th day project 2 (b)\9th day project 2 (b)\bin\Debug\9th day project 2 (b).exe
+C:\c#assignments\Day 9th morning assignment\9th day project 2 (b)\9th day project 2 (b)\bin\Debug\9th day project 2 (b).pdb
+C:\c#assignments\Day 9th morning assignment\9th day project 2 (b)\9th day project 2 (b)\obj\Debug\9th day project 2 (b).csproj.SuggestedBindingRedirects.cache
+C:\c#assignments\Day 9th morning assignment\9th day project 2 (b)\9th day project 2 (b)\obj\Debug\9th day project 2 (b).csproj.CoreCompileInputs.cache
+C:\c#assignments\Day 9th morning assignment\9th day project 2 (b)\9th day project 2 (b)\obj\Debug\9th day project 2 (b).exe
+C:\c#assignments\Day 9th morning assignment\9th day project 2 (b)\9th day project 2 (b)\obj\Debug\9th day project 2 (b).pdb
