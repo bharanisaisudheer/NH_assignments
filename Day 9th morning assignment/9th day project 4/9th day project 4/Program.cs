@@ -45,7 +45,7 @@ namespace _9th_day_project_4
         static void Main(string[] args)
         {
             employee emp = new employee(2,"sai",200);
-            emp.Readdata();
+            
             emp.printdata();
             Console.ReadLine();
 
