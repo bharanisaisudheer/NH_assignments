@@ -1,0 +1,7 @@
+C:\Sudheer\C#\NH_assignments\Day13\13thdayproject10\13thdayproject10\bin\Debug\13thdayproject10.exe.config
+C:\Sudheer\C#\NH_assignments\Day13\13thdayproject10\13thdayproject10\bin\Debug\13thdayproject10.exe
+C:\Sudheer\C#\NH_assignments\Day13\13thdayproject10\13thdayproject10\bin\Debug\13thdayproject10.pdb
+C:\Sudheer\C#\NH_assignments\Day13\13thdayproject10\13thdayproject10\obj\Debug\13thdayproject10.csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\Day13\13thdayproject10\13thdayproject10\obj\Debug\13thdayproject10.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\Day13\13thdayproject10\13thdayproject10\obj\Debug\13thdayproject10.exe
+C:\Sudheer\C#\NH_assignments\Day13\13thdayproject10\13thdayproject10\obj\Debug\13thdayproject10.pdb

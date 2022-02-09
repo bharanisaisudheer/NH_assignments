@@ -1,0 +1,8 @@
+C:\Sudheer\C#\NH_assignments\Day13\fact\fact\bin\Debug\fact.exe.config
+C:\Sudheer\C#\NH_assignments\Day13\fact\fact\bin\Debug\fact.exe
+C:\Sudheer\C#\NH_assignments\Day13\fact\fact\bin\Debug\fact.pdb
+C:\Sudheer\C#\NH_assignments\Day13\fact\fact\obj\Debug\fact.csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\Day13\fact\fact\obj\Debug\fact.csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\Day13\fact\fact\obj\Debug\fact.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\Day13\fact\fact\obj\Debug\fact.exe
+C:\Sudheer\C#\NH_assignments\Day13\fact\fact\obj\Debug\fact.pdb
