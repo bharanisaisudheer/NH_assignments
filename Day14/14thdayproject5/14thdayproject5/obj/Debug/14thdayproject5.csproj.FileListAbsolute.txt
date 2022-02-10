@@ -1,0 +1,8 @@
+C:\Sudheer\C#\NH_assignments\Day14\14thdayproject5\14thdayproject5\obj\Debug\14thdayproject5.csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\Day14\14thdayproject5\14thdayproject5\obj\Debug\14thdayproject5.csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\Day14\14thdayproject5\14thdayproject5\obj\Debug\14thdayproject5.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\Day14\14thdayproject5\14thdayproject5\bin\Debug\14thdayproject5.exe.config
+C:\Sudheer\C#\NH_assignments\Day14\14thdayproject5\14thdayproject5\bin\Debug\14thdayproject5.exe
+C:\Sudheer\C#\NH_assignments\Day14\14thdayproject5\14thdayproject5\bin\Debug\14thdayproject5.pdb
+C:\Sudheer\C#\NH_assignments\Day14\14thdayproject5\14thdayproject5\obj\Debug\14thdayproject5.exe
+C:\Sudheer\C#\NH_assignments\Day14\14thdayproject5\14thdayproject5\obj\Debug\14thdayproject5.pdb

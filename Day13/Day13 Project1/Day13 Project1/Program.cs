@@ -15,7 +15,7 @@ namespace Day13_Project1
             {
                 for (int j = 0; j < 2; j++)
                 {
-                    Console.Write(data[i,j]+"");
+                    Console.Write(data[i,j]+" ");
                 }
                 Console.Write("\n");
 
