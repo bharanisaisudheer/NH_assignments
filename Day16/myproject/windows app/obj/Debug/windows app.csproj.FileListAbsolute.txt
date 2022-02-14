@@ -1,0 +1,16 @@
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\bin\Debug\windows app.exe.config
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\bin\Debug\windows app.exe
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\bin\Debug\windows app.pdb
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\bin\Debug\publicLibrary.dll
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\bin\Debug\sudheerLibrary.dll
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\bin\Debug\publicLibrary.pdb
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\bin\Debug\sudheerLibrary.pdb
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows app.csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows app.csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows_app.Form1.resources
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows_app.Properties.Resources.resources
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows app.csproj.GenerateResource.cache
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows app.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows app.csproj.CopyComplete
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows app.exe
+C:\Sudheer\C#\NH_assignments\Day16\myproject\windows app\obj\Debug\windows app.pdb

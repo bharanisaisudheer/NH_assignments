@@ -1,0 +1,13 @@
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\bin\Debug\client app.exe.config
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\bin\Debug\client app.exe
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\bin\Debug\client app.pdb
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\obj\Debug\client app.csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\obj\Debug\client app.csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\obj\Debug\client app.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\obj\Debug\client app.exe
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\obj\Debug\client app.pdb
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\bin\Debug\publicLibrary.dll
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\bin\Debug\sudheerLibrary.dll
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\bin\Debug\publicLibrary.pdb
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\bin\Debug\sudheerLibrary.pdb
+C:\Sudheer\C#\NH_assignments\Day16\myproject\client app\obj\Debug\client app.csproj.CopyComplete

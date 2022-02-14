@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2451f92e-16d2-49ff-a607-7f4f5321770b": {
+      "ProjectGuid": "2451f92e-16d2-49ff-a607-7f4f5321770b",
+      "DisplayName": "sudheerLibrary",
+      "ColorIndex": 0
+    },
+    "14247b94-e407-4113-b862-11e2f368981f": {
+      "ProjectGuid": "14247b94-e407-4113-b862-11e2f368981f",
+      "DisplayName": "publicLibrary",
+      "ColorIndex": 1
+    },
+    "c9d4e19d-174b-4e8e-ba95-4ac8a9f2fca1": {
+      "ProjectGuid": "c9d4e19d-174b-4e8e-ba95-4ac8a9f2fca1",
+      "DisplayName": "client app",
+      "ColorIndex": 2
+    },
+    "ffe48043-ef6e-4d02-989a-e38bdaaf138e": {
+      "ProjectGuid": "ffe48043-ef6e-4d02-989a-e38bdaaf138e",
+      "DisplayName": "windows app",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
