@@ -1,0 +1,6 @@
+C:\Sudheer\C#\NH_assignments\Day16\17dayproject1\publicLibrary\bin\Debug\publicLibrary.dll
+C:\Sudheer\C#\NH_assignments\Day16\17dayproject1\publicLibrary\bin\Debug\publicLibrary.pdb
+C:\Sudheer\C#\NH_assignments\Day16\17dayproject1\publicLibrary\obj\Debug\publicLibrary.csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\Day16\17dayproject1\publicLibrary\obj\Debug\publicLibrary.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\Day16\17dayproject1\publicLibrary\obj\Debug\publicLibrary.dll
+C:\Sudheer\C#\NH_assignments\Day16\17dayproject1\publicLibrary\obj\Debug\publicLibrary.pdb
