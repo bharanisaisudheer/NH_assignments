@@ -1,0 +1,14 @@
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\bin\Debug\app.exe.config
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\bin\Debug\app.exe
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\bin\Debug\app.pdb
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\bin\Debug\mathsLibrary.dll
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\bin\Debug\mathsLibrary.pdb
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.Form1.resources
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.Properties.Resources.resources
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.csproj.CopyComplete
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.exe
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\app\obj\Debug\app.pdb

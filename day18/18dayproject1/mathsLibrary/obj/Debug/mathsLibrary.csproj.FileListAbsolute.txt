@@ -1,0 +1,6 @@
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\mathsLibrary\bin\Debug\mathsLibrary.dll
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\mathsLibrary\bin\Debug\mathsLibrary.pdb
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\mathsLibrary\obj\Debug\mathsLibrary.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\mathsLibrary\obj\Debug\mathsLibrary.dll
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\mathsLibrary\obj\Debug\mathsLibrary.pdb
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\mathsLibrary\obj\Debug\mathsLibrary.csproj.AssemblyReference.cache

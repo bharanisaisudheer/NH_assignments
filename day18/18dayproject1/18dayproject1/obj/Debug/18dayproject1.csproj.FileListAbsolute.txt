@@ -1,0 +1,11 @@
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\bin\Debug\18dayproject1.exe.config
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\bin\Debug\18dayproject1.exe
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\bin\Debug\18dayproject1.pdb
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\bin\Debug\mathsLibrary.dll
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\bin\Debug\mathsLibrary.pdb
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\obj\Debug\18dayproject1.csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\obj\Debug\18dayproject1.csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\obj\Debug\18dayproject1.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\obj\Debug\18dayproject1.csproj.CopyComplete
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\obj\Debug\18dayproject1.exe
+C:\Sudheer\C#\NH_assignments\day18\18dayproject1\18dayproject1\obj\Debug\18dayproject1.pdb
