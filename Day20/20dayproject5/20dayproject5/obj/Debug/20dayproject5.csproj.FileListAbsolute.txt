@@ -1,0 +1,8 @@
+C:\Sudheer\C#\NH_assignments\Day20\20dayproject5\20dayproject5\obj\Debug\20dayproject5.csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\Day20\20dayproject5\20dayproject5\obj\Debug\20dayproject5.csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\Day20\20dayproject5\20dayproject5\obj\Debug\20dayproject5.csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\Day20\20dayproject5\20dayproject5\bin\Debug\20dayproject5.exe.config
+C:\Sudheer\C#\NH_assignments\Day20\20dayproject5\20dayproject5\bin\Debug\20dayproject5.exe
+C:\Sudheer\C#\NH_assignments\Day20\20dayproject5\20dayproject5\bin\Debug\20dayproject5.pdb
+C:\Sudheer\C#\NH_assignments\Day20\20dayproject5\20dayproject5\obj\Debug\20dayproject5.exe
+C:\Sudheer\C#\NH_assignments\Day20\20dayproject5\20dayproject5\obj\Debug\20dayproject5.pdb
