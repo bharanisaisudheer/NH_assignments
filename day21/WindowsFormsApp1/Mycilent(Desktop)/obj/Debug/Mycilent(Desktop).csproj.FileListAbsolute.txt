@@ -1,0 +1,11 @@
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\bin\Debug\Mycilent(Desktop).exe.config
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\bin\Debug\Mycilent(Desktop).exe
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\bin\Debug\Mycilent(Desktop).pdb
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\obj\Debug\Mycilent(Desktop).csproj.AssemblyReference.cache
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\obj\Debug\Mycilent(Desktop).csproj.SuggestedBindingRedirects.cache
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\obj\Debug\Mycilent_Desktop_.Form1.resources
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\obj\Debug\Mycilent_Desktop_.Properties.Resources.resources
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\obj\Debug\Mycilent(Desktop).csproj.GenerateResource.cache
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\obj\Debug\Mycilent(Desktop).csproj.CoreCompileInputs.cache
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\obj\Debug\Mycilent(Desktop).exe
+C:\Sudheer\C#\NH_assignments\day21\WindowsFormsApp1\Mycilent(Desktop)\obj\Debug\Mycilent(Desktop).pdb

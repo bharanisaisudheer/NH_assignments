@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04dd6053-69b0-46c6-8ff2-06f488b47878": {
+      "ProjectGuid": "04dd6053-69b0-46c6-8ff2-06f488b47878",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 0
+    },
+    "5bcf76b2-bb68-4def-9b42-2524957addc4": {
+      "ProjectGuid": "5bcf76b2-bb68-4def-9b42-2524957addc4",
+      "DisplayName": "Mycilent(Desktop)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
