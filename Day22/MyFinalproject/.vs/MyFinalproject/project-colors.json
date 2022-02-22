@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3051193-6ac8-48d6-9e83-7579104e8f1c": {
+      "ProjectGuid": "d3051193-6ac8-48d6-9e83-7579104e8f1c",
+      "DisplayName": "MyFinalproject",
+      "ColorIndex": 0
+    },
+    "a434fa2e-8e3a-4e6e-b5db-0f10c2ff22db": {
+      "ProjectGuid": "a434fa2e-8e3a-4e6e-b5db-0f10c2ff22db",
+      "DisplayName": "clientsudheerproject",
+      "ColorIndex": 1
+    },
+    "6c2ce9a4-aefe-4924-a772-9f2fb324963a": {
+      "ProjectGuid": "6c2ce9a4-aefe-4924-a772-9f2fb324963a",
+      "DisplayName": "Businesslogiclibrary",
+      "ColorIndex": 2
+    },
+    "de917717-5dd4-46cb-a373-392bf5724399": {
+      "ProjectGuid": "de917717-5dd4-46cb-a373-392bf5724399",
+      "DisplayName": "Dataacesslayerlibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
